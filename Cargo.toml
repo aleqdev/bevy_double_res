@@ -1,0 +1,10 @@
+[package]
+name = "bevy_double_res"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy_ecs = "0.8.1"
+
+[dev-dependencies]
+bevy = "0.8.1"
