@@ -2,6 +2,15 @@
 name = "bevy_double_res"
 version = "0.1.0"
 edition = "2021"
+authors = ["Aleksandr Nazarov <necromfox@gmail.com>"]
+
+license = "MIT"
+description = "Straightforward double buffering implementation for bevy resources"
+repository = "https://github.com/necromfox/bevy_double_res"
+homepage = "https://github.com/necromfox/bevy_double_res"
+readme = "README.md"
+keywords = ["gamedev", "bevy", "buffer", "double-buffering"]
+categories = ["data-structures", "game-development"]
 
 [dependencies]
 bevy_ecs = "0.8.1"

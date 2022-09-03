@@ -1,9 +1,9 @@
-//! Straightforward double-buffering implementation for [bevy engine](https://bevyengine.org/)
+//! # Straightforward double-buffering implementation for [bevy engine](https://bevyengine.org/)
 //!
 //! Consists of main struct [DoubleBuffer], helper auto trait [IntoDoubleBuffer] and two aliases
 //! [DoubleRes] and [DoubleResMut]
 //!
-//! Crate was developed by solving author's personal problems so you can expect some bugs
+//! *Crate was developed by solving author's personal problems so you can expect some bugs*
 
 
 #![warn(missing_docs)]
